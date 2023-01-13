@@ -1,2 +1,2 @@
-# Arrays-Hashing (Soulaion in c#)
+# Arrays-Hashing (solution in c#)
 Arrays and hashing problems
